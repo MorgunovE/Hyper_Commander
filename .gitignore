@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Hyper Commander/*
+!/Hyper Commander/task/
+/Hyper Commander/task/*
+!/Hyper Commander/task/main.sh
